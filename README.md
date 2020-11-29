@@ -20,3 +20,7 @@
 
 
 #### git init --bare
+
+, Os repositórios do tipo bare são usados para centralizar o trabalho de diversos outros 
+. repositórios que  enviam objetos, ele propriamente não possui Working Dir e não permite
+. trabalhar diretamente nele 
